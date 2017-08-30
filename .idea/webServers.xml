@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f7903499-f2a5-4c90-ad63-3dc687bd79ce" name="devserv1" url="http://35.195.171.34">
+        <fileTransfer host="35.195.171.34" port="22" privateKey="C:\Users\vbalaiah\Desktop\08-17\GCP\test3.ppk" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
